@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 12:14:26 CST 2020
+hibernate-core-4.3.11.Final.jar>alimaven=
+hibernate-core-4.3.11.Final.pom>alimaven=
+hibernate-core-4.3.11.Final-sources.jar>alimaven=

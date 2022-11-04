@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 11:44:10 CST 2020
+mysql-connector-java-5.1.38.jar>alimaven=
+mysql-connector-java-5.1.38.pom>alimaven=
+mysql-connector-java-5.1.38-sources.jar>alimaven=

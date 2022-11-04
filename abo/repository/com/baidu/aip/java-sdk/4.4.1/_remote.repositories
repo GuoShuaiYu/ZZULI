@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 11:44:20 CST 2020
+java-sdk-4.4.1.jar>alimaven=
+java-sdk-4.4.1.pom>alimaven=
+java-sdk-4.4.1-sources.jar>alimaven=

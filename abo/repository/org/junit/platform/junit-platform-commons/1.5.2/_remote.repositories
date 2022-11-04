@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 12:09:11 CST 2020
+junit-platform-commons-1.5.2.jar>alimaven=
+junit-platform-commons-1.5.2.pom>alimaven=
+junit-platform-commons-1.5.2-sources.jar>alimaven=

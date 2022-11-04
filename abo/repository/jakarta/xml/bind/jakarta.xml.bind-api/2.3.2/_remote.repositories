@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 12:09:09 CST 2020
+jakarta.xml.bind-api-2.3.2.jar>alimaven=
+jakarta.xml.bind-api-2.3.2.pom>alimaven=
+jakarta.xml.bind-api-2.3.2-sources.jar>alimaven=

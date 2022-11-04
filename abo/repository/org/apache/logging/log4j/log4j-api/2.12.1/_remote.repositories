@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 12:08:07 CST 2020
+log4j-api-2.12.1.jar>alimaven=
+log4j-api-2.12.1.pom>alimaven=
+log4j-api-2.12.1-sources.jar>alimaven=

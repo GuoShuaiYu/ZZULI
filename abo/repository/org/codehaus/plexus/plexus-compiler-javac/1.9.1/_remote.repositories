@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 20:20:50 CST 2020
+plexus-compiler-javac-1.9.1.jar>alimaven=
+plexus-compiler-javac-1.9.1.pom>alimaven=
+plexus-compiler-javac-1.9.1-sources.jar>alimaven=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 14:27:05 CST 2020
+ecj-3.18.0.jar>alimaven=
+ecj-3.18.0.pom>alimaven=
+ecj-3.18.0-sources.jar>alimaven=
